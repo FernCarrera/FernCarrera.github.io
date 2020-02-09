@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Graduate from the University of California, San Diego. BS in Aerospace Engineering, minors in Business Management & Interdisciplinary Computing and the Arts (ICAM).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[carrerafct@gmail.com](mailto:carrerafct@gmail.com)
