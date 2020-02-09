@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Control and Simulation demos
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![particle_demo](https://github.com/FernCarrera/FernCarrera.github.io/master/images/particle_filter_demo.gif | width=100)
+Path tracking using PID velocity control and Stanley Steering control (Blue line). Vehicle tracking using a Particle filter with a distance-to-landmark approach.
+![particle_demo](https://github.com/FernCarrera/FernCarrera.github.io/master/images/particle_filter_demo.gif | width=70)
 
 
