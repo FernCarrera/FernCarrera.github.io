@@ -9,6 +9,7 @@ Graduate from the University of California, San Diego. BS in Aerospace Engineeri
 
 #### Other projects
 [University/Personal Projects](https://fernsdrone.weebly.com/portfolio.html)
+
 [Kaggle](https://www.kaggle.com/fernandocarrera)
 
 ### Contact me
